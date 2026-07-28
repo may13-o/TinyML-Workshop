@@ -1,2 +1,1 @@
-# TinyML-Workshop
-Worshop Repo
+#TINY-ML Workshop
