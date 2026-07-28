@@ -1,3 +1,1 @@
-name = "TinyML"
-print(name)
-print("Workshop")
+print("Hello World!")
